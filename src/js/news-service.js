@@ -1,9 +1,9 @@
-// const API_KEY = '4ae390c2725d4332b415396c1551f2bf';
-const REPETA_KEY = '4330ebfabc654a6992c2aa792f3173a3';
+const API_KEY = '4ae390c2725d4332b415396c1551f2bf';
+// const REPETA_KEY = '4330ebfabc654a6992c2aa792f3173a3';
 const BASE_URL = 'https://newsapi.org/v2'
 const options = {
 	headers: {
-	  Authorization: REPETA_KEY,
+	  Authorization: API_KEY,
 	},
   };
 
